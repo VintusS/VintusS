@@ -11,7 +11,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/mindrescu dragomir" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mindrescu dragomir" height="30" width="40" /></a>
+<a href="[https://linkedin.com/in/mindrescu dragomir](https://www.linkedin.com/in/mîndrescu-dragomir-34236227b/)" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mindrescu dragomir" height="30" width="40" /></a>
 <a href="https://instagram.com/dragosh_md" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="dragosh_md" height="30" width="40" /></a>
 <a href="https://codeforces.com/profile/vintuss" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="vintuss" height="30" width="40" /></a>
 </p>
