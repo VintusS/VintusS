@@ -28,6 +28,25 @@
   <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> 
   <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a>  </p>
 
+<h3 align="center">📌 Pinned Repositories</h3>
+<p align="center">
+  <a href="https://github.com/VintusS/Extole-Dashboard">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=VintusS&repo=REPOSITORY_NAME_1&theme=dark" alt="REPOSITORY_NAME_1" />
+  </a>
+  <a href="https://github.com/VintusS/Human-Traficking-Hackathon">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=VintusS&repo=REPOSITORY_NAME_2&theme=dark" alt="REPOSITORY_NAME_2" />
+  </a>
+</p>
+
+<h3 align="center">📚 Latest Blog Posts</h3>
+<p align="center">
+  <ul>
+    <li><a href="https://www.linkedin.com/feed/update/urn:li:activity:7138193071812263936/" target="_blank">My first Linkedin post</a> - 06.12.2023</li>
+  </ul>
+</p>
+
+<h3 align="center">📈 My GitHub Stats</h3>
+<p align="center">
 <p align="center">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=vintuss&show_icons=true&locale=en&theme=dark&bg_color=0d47a1&title_color=fff&text_color=fff&icon_color=fff" alt="vintuss" />
 </p>
@@ -35,21 +54,6 @@
 <p align="center">
   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=vintuss&theme=dark&background=0d47a1&stroke=0000&ring=fff&fire=fff&currStreakNum=fff&sideNums=fff&currStreakLabel=fff&sideLabels=fff&dates=fff" alt="vintuss" />
 </p>
-
-
-<h3 align="center">📌 Pinned Repositories</h3>
-<p align="center">
-  <!-- Pinned Repositories can be added here -->
-</p>
-
-<h3 align="center">📚 Latest Blog Posts</h3>
-<p align="center">
-  <!-- If you write blog posts, list them here -->
-</p>
-
-<h3 align="center">📈 My GitHub Stats</h3>
-<p align="center">
-  <!-- Your GitHub stats here -->
 </p>
 
 <h3 align="center">👥 Visitor Count</h3>
