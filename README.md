@@ -31,10 +31,10 @@
 <h3 align="center">📌 Pinned Repositories</h3>
 <p align="center">
   <a href="https://github.com/VintusS/Extole-Dashboard">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=VintusS&repo=Extole-DashBoard&theme=dark" alt="Extole-Dashboard" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=VintusS&repo=Extole-DashBoard&theme=dark&bg_color=0d47a1&title_color=fff&text_color=fff&icon_color=fff" alt="Extole-Dashboard" />
   </a>
   <a href="https://github.com/VintusS/Human-Traficking-Hackathon">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=VintusS&repo=Human-Traficking-Hackathon&theme=dark" alt="Human-Traficking-Hackathon" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=VintusS&repo=Human-Traficking-Hackathon&theme=dark&bg_color=0d47a1&title_color=fff&text_color=fff&icon_color=fff" alt="Human-Traficking-Hackathon" />
   </a>
 </p>
 
