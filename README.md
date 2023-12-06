@@ -2,10 +2,6 @@
 <h2 align="center">iOS Developer | Swift Enthusiast</h2>
 
 <p align="center">
-  <img src="YOUR_PROFILE_IMAGE_URL" alt="Profile Image" width="200" style="border-radius:50%">
-</p>
-
-<p align="center">
   <i>A passionate iOS Developer dedicated to crafting elegant and functional mobile applications.</i>
 </p>
 
@@ -16,9 +12,9 @@
 
 <h3 align="center">🔗 Connect with me:</h3>
 <p align="center">
-  <a href="https://www.linkedin.com/in/mîndrescu-dragomir-34236227b/" target="blank"><img align="center" src="LINKEDIN_ICON_URL" alt="mindrescu dragomir" height="30" width="40" /></a>
-  <a href="https://instagram.com/dragosh_md" target="blank"><img align="center" src="INSTAGRAM_ICON_URL" alt="dragosh_md" height="30" width="40" /></a>
-  <a href="https://codeforces.com/profile/vintuss" target="blank"><img align="center" src="CODEFORCES_ICON_URL" alt="vintuss" height="30" width="40" /></a>
+  <a href="https://www.linkedin.com/in/mîndrescu-dragomir-34236227b/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mindrescu dragomir" height="30" width="40" /></a>
+  <a href="https://instagram.com/dragosh_md" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="dragosh_md" height="30" width="40" /></a>
+  <a href="https://codeforces.com/profile/vintuss" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="vintuss" height="30" width="40" /></a>
 </p>
 
 <h3 align="center">🛠 Languages and Tools:</h3>
