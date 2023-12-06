@@ -24,12 +24,13 @@
 </p>
 
 <p align="center">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=vintuss&show_icons=true&locale=en" alt="vintuss" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=vintuss&show_icons=true&locale=en&theme=dark&bg_color=0d47a1&title_color=fff&text_color=fff&icon_color=fff" alt="vintuss" />
 </p>
 
 <p align="center">
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=vintuss&" alt="vintuss" />
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=vintuss&theme=dark&background=0d47a1&stroke=0000&ring=fff&fire=fff&currStreakNum=fff&sideNums=fff&currStreakLabel=fff&sideLabels=fff&dates=fff" alt="vintuss" />
 </p>
+
 
 <h3 align="center">📌 Pinned Repositories</h3>
 <p align="center">
