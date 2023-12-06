@@ -39,11 +39,13 @@
 </p>
 
 <h3 align="center">📚 Latest Blog Posts</h3>
-<p align="center">
-  <ul>
-    <li><a href="https://www.linkedin.com/feed/update/urn:li:activity:7138193071812263936/" target="_blank">My first Linkedin post</a> - 06.12.2023</li>
-  </ul>
+<p align="center" style="text-align: center;">
+  <a href="https://www.linkedin.com/feed/update/urn:li:activity:7138193071812263936/" target="_blank" style="text-decoration: none; color: #0a66c2; font-weight: bold;">
+    <img src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" alt="LinkedIn" style="height: 20px; width: 20px; vertical-align: middle; margin-right: 10px;">
+    My First LinkedIn Post - 06.12.2023
+  </a>
 </p>
+
 
 <h3 align="center">📈 My GitHub Stats</h3>
 <p align="center">
