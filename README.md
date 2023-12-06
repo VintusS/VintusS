@@ -31,10 +31,10 @@
 <h3 align="center">📌 Pinned Repositories</h3>
 <p align="center">
   <a href="https://github.com/VintusS/Extole-Dashboard">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=VintusS&repo=Extole-DashBoard&theme=dark&bg_color=0d47a1&title_color=fff&text_color=fff&icon_color=fff" alt="Extole-Dashboard" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=VintusS&repo=Extole-DashBoard&theme=dark" alt="Extole-Dashboard" />
   </a>
   <a href="https://github.com/VintusS/Human-Traficking-Hackathon">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=VintusS&repo=Human-Traficking-Hackathon&theme=dark&bg_color=0d47a1&title_color=fff&text_color=fff&icon_color=fff" alt="Human-Traficking-Hackathon" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=VintusS&repo=Human-Traficking-Hackathon&theme=dark" alt="Human-Traficking-Hackathon" />
   </a>
 </p>
 
@@ -50,11 +50,11 @@
 <h3 align="center">📈 My GitHub Stats</h3>
 <p align="center">
 <p align="center">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=vintuss&show_icons=true&locale=en&theme=dark&bg_color=0d47a1&title_color=fff&text_color=fff&icon_color=fff" alt="vintuss" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=vintuss&show_icons=true&locale=en&theme=dark" alt="vintuss" />
 </p>
 
 <p align="center">
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=vintuss&theme=dark&background=0d47a1&stroke=0000&ring=fff&fire=fff&currStreakNum=fff&sideNums=fff&currStreakLabel=fff&sideLabels=fff&dates=fff" alt="vintuss" />
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=vintuss&theme=dark" alt="vintuss" />
 </p>
 </p>
 
