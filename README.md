@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Dragomir</h1>
-<h2 align="center">iOS Developer | Swift Enthusiast</h2>
+<h2 align="center">iOS Developer | Front End Wizard | Swift Enthusiast</h2>
 
 <p align="center">
   <i>A passionate iOS Developer dedicated to crafting elegant and functional mobile applications.</i>
