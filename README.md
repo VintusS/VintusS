@@ -33,9 +33,6 @@
   <a href="https://github.com/VintusS/Extole-Dashboard">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=VintusS&repo=Extole-DashBoard&theme=dark" alt="Extole-Dashboard" />
   </a>
-</p>
-<br>
-<p align="center">
 <a href="https://github.com/VintusS/A-Kid-s-Place-Project">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=VintusS&repo=Human-Traficking-Hackathon&theme=dark" alt="Human-Traficking-Hackathon" />
   </a>
@@ -47,6 +44,7 @@
     <img src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" alt="LinkedIn" style="height: 20px; width: 20px; vertical-align: middle; margin-right: 10px;">
     Human Trafficking Hackathon Winners - 09.12.2023
   </a>
+  <br>
   <a href="https://www.linkedin.com/feed/update/urn:li:activity:7138193071812263936/" target="_blank" style="text-decoration: none; color: #0a66c2; font-weight: bold;">
     <img src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" alt="LinkedIn" style="height: 20px; width: 20px; vertical-align: middle; margin-right: 10px;">
     My First LinkedIn Post - 06.12.2023
