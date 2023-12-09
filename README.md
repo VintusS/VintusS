@@ -34,6 +34,7 @@
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=VintusS&repo=Extole-DashBoard&theme=dark" alt="Extole-Dashboard" />
   </a>
 </p>
+<br>
 <p align="center">
 <a href="https://github.com/VintusS/A-Kid-s-Place-Project">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=VintusS&repo=Human-Traficking-Hackathon&theme=dark" alt="Human-Traficking-Hackathon" />
