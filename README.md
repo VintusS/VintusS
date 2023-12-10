@@ -5,7 +5,7 @@
   <i>A passionate iOS Developer dedicated to crafting elegant and functional mobile applications.</i>
 </p>
 
-- 🌱 I’m currently mastering **Swift and SwiftUI**.
+- 🌱 I’m currently learning **Swift and SwiftUI**.
 - 👨‍💻 Explore my projects: [My GitHub Repositories](https://github.com/VintusS?tab=repositories)
 - 📫 Reach me at: **dragomir.mindrescu@isa.utm.md**
 - 📄 Learn about my journey: [LinkedIn Profile](https://www.linkedin.com/in/mîndrescu-dragomir-34236227b/)
