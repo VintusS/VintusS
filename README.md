@@ -8,7 +8,7 @@
 - 🌱 I’m currently learning **Swift and SwiftUI**.
 - 👨‍💻 Explore my projects: [My GitHub Repositories](https://github.com/VintusS?tab=repositories)
 - 📫 Reach me at: **dragomir.mindrescu@isa.utm.md**
-- 📄 Learn about my journey: [LinkedIn Profile](https://www.linkedin.com/in/mîndrescu-dragomir-34236227b/)
+- 📄 Learn about my journey: [LinkedIn Profile](https://www.linkedin.com/in/dragomir-mîndrescu-34236227b/)
 
 <h3 align="center">🔗 Connect with me:</h3>
 <p align="center">
