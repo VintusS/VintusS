@@ -31,7 +31,7 @@
 <h3 align="center">📌 Pinned Repositories</h3>
 <p align="center">
   <a href="https://github.com/VintusS/SilverLink">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=VintusS&repo=Extole-DashBoard&theme=dark" alt="SilverLink" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=VintusS&repo=SilverLink&theme=dark" alt="SilverLink" />
   </a>
 <a href="https://github.com/VintusS/A-Kid-s-Place-Project">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=VintusS&repo=Human-Traficking-Hackathon&theme=dark" alt="Human-Traficking-Hackathon" />
