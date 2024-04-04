@@ -68,7 +68,7 @@
 </p>
 </p>
 
-<h3 align="center">👥 Visitor Count</h3>
-<p align="center">
-  <img src="https://profile-counter.glitch.me/{VintusS}/count.svg" alt="Visitor Count">
-</p>
+<!-- <h3 align="center">👥 Visitor Count</h3> -->
+<!-- <p align="center"> -->
+<!--   <img src="https://profile-counter.glitch.me/{VintusS}/count.svg" alt="Visitor Count"> -->
+<!-- </p> -->
