@@ -1,11 +1,10 @@
 <h1 align="center">Hi 👋, I'm Dragomir</h1>
-<h2 align="center">iOS Developer | Front End Wizard | Swift Enthusiast</h2>
+<h2 align="center">Software Engineering Student. Software Engineer @ Extole</h2>
 
 <p align="center">
-  <i>A passionate iOS Developer dedicated to crafting elegant and functional mobile applications.</i>
+  <i>Front-end developer with experience in vanilla JS. Indie iOS Developer as a hobby</i>
 </p>
 
-- 🌱 I’m currently learning **Swift and SwiftUI**.
 - 👨‍💻 Explore my projects: [My GitHub Repositories](https://github.com/VintusS?tab=repositories)
 - 📫 Reach me at: **dragomir.mindrescu@isa.utm.md**
 - 📄 Learn about my journey: [LinkedIn Profile](https://www.linkedin.com/in/dragomir-mîndrescu-34236227b/)
